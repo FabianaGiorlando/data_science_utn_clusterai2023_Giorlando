@@ -16,3 +16,8 @@ Este repositorio contiene el análisis exploratorio de datos (EDA) seguido de la
 * https://www.mdpi.com/2071-1050/10/12/4596
 * https://www.sciencedirect.com/science/article/pii/S2666827021001043
 * https://www.sciencedirect.com/science/article/pii/S2352550921001214
+## Links
+### Repositorio: 
+https://github.com/FabianaGiorlando/data_science_utn_clusterai2023_Giorlando
+### Perfil:
+https://github.com/FabianaGiorlando
